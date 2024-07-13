@@ -1,8 +1,6 @@
 # Projector
 
-## Introduction
-
-## TS, Go, And Rust
+## Introduction (TS, Go, And Rust)
 
 ## Part 1 Getting Familiar
 
